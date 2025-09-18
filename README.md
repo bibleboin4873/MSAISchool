@@ -1,4 +1,4 @@
-# ms_aischool
+# MS_AI School
 마이크로소트프 AI스쿨 8기_기성경
 
 ## 2025-09-18
